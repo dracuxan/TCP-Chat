@@ -1,0 +1,10 @@
+target_output_name = client
+
+
+build client: link
+  ldflags =
+  libs =
+  frameworks =
+  swiftmodules =
+  output_extension = 
+  output_dir = 

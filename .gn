@@ -1,1 +1,1 @@
-build_config=//build/config/BUILDCONFIG.gn
+buildconfig = "//build/BUILDCONFIG.gn"
