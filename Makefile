@@ -1,6 +1,5 @@
-.PHONY: all build run test
+.PHONY: build
 
-all: build run
 
 build:
 	echo "Generating Ninja..."
@@ -8,6 +7,3 @@ build:
 
 	echo "Building Project..."
 	@ninja -C out
-
-run:
-	@./out/main
