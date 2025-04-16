@@ -1,4 +1,0 @@
-executable("client") {
-  sources = [ "client.cpp" ]
-  include_dirs = [ "." ]
-}

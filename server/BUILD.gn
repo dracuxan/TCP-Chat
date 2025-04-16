@@ -1,4 +1,0 @@
-executable("server") {
-  sources = [ "server.cpp" ]
-  include_dirs = [ "." ]
-}
