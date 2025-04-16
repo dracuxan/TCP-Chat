@@ -1,10 +1,10 @@
 .PHONY: build clean
 
 build:
-	echo "Generating Ninja..."
+	@echo "Generating Ninja..."
 	@gn gen out
 
-	echo "Building Project..."
+	@echo "Building Project..."
 	@ninja -C out
 
 clean:
