@@ -4,7 +4,7 @@ This is a simple TCP chat client and server written in C++.
 
 ## ⚙️ Build System
 
-Although it's a small project, it uses the **GN build system** along with **Ninja** to generate binaries — just to get hands-on experience with GN. Yes, it's a bit overkill for this, but hey, learning matters! 🙂
+Although it's a small project, it uses the **GN build system** along with **Ninja** to generate binaries — just to get hands-on experience with GN. Yes, it's a bit overkill for this, but, just having fun learning! ^^
 
 ## 🔧 Commands
 
