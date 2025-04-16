@@ -1,0 +1,3 @@
+executable("server_main") {
+  sources = [ "server_main.cpp" ]
+}

@@ -1,7 +1,6 @@
-executable("client_main") {
-  sources = [ "client/client_main.cpp" ]
-}
-
-executable("server_main") {
-  sources = [ "server/server_main.cpp" ]
+group("all") {
+  deps = [
+    "//client:client_main",
+    "//server:server_main",
+  ]
 }
